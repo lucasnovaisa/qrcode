@@ -1,7 +1,7 @@
 <h1 align="center"> Gerador de QR Code </h1>
 
 <p align="center">
-Um projeto simples em **HTML, CSS e JavaScript** que permite gerar códigos QR a partir de um texto ou URL inserido pelo usuário.
+Um projeto simples em HTML, CSS e JavaScript que permite gerar códigos QR a partir de um texto ou URL inserido pelo usuário.
 </p>
 
 <p align="center">
